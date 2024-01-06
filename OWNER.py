@@ -6,5 +6,5 @@ DATABASE = "mongodb+srv://Elkber:Elkber@cluster0.feuljpn.mongodb.net/?retryWrite
 CHANNEL = "https://t.me/Mvhmed"
 GROUP = "https://t.me/Mvhmed"
 VIDEO = "https://telegra.ph/file/7065a4c7cbedef8befdb9.jpg"
-LOGS = "zombie2"
+LOGS = "H4_L1"
 
